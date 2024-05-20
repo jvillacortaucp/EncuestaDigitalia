@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "fSCGj3JUE7NDz/g9kgFETCSUhqjBegV6dJ96dwNC4Pw=",
+  "Source": "Digitalia.Server",
+  "BasePath": "_content/Digitalia.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\DIGITALIA\\EncuestaDigitalia\\Digitalia\\Digitalia.client\\Digitalia.client.esproj",
+      "Version": 2,
+      "Source": "Digitalia.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

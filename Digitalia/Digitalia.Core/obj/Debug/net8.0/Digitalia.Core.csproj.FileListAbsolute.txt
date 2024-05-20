@@ -1,0 +1,13 @@
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\bin\Debug\net8.0\Digitalia.Core.deps.json
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\bin\Debug\net8.0\Digitalia.Core.dll
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\bin\Debug\net8.0\Digitalia.Core.pdb
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.csproj.AssemblyReference.cache
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.AssemblyInfoInputs.cache
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.AssemblyInfo.cs
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.csproj.CoreCompileInputs.cache
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.sourcelink.json
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.dll
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\refint\Digitalia.Core.dll
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\Digitalia.Core.pdb
+D:\DIGITALIA\EncuestaDigitalia\Digitalia\Digitalia.Core\obj\Debug\net8.0\ref\Digitalia.Core.dll
