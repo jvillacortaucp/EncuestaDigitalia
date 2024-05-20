@@ -482,3 +482,9 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+/Digitalia/.vs
+/Digitalia/Digitalia.Core/bin
+/Digitalia/Digitalia.Server/bin
+/Digitalia/Digitalia.Server/Logs
+/Digitalia/Digitalia.Core/obj
