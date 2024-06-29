@@ -22,14 +22,8 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.x'
-          
-      - name: restore and build
-        run: |
-          cd Digitalia/
-          dotnet restore
-          dotnet build --configuration Release
-          
+          dotnet-version: '8.x'          
+               
       - name: publish
         run: |
           cd Digitalia/
