@@ -32,7 +32,7 @@ jobs:
           
       - name: publish
         run: |
-          cd Digitalia.Server/
+          cd Digitalia/Digitalia.Server/
           dotnet publish -c Release -o ${{env.DOTNET_ROOT}}\Digitalia
 
       - name: Upload artifact for deployment job
