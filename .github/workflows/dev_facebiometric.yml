@@ -12,6 +12,9 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    env:
+      DOTNET_ROOT: C:\Program Files\dotnet
+
 
     steps:
       - uses: actions/checkout@v4
@@ -21,14 +24,10 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: change directory
+      - name: build
         run: cd Digitalia/Digitalia.Server/
-            
-      - name: Restore solution
-        run: dotnet restore
-
-      - name: Build with dotnet
-        run: dotnet build --configuration Release
+         dotnet restore
+         dotnet build --configuration Release
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
