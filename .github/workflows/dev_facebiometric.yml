@@ -29,7 +29,6 @@ jobs:
           cd Digitalia/
           dotnet restore
           dotnet build --configuration Release
-          - name: restore
           
       - name: publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}\Digitalia
