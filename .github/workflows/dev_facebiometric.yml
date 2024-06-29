@@ -24,12 +24,15 @@ jobs:
         with:
           dotnet-version: '8.x'
           
-      - name: restore
+      - name: restore and build
         run: |
           cd Digitalia/
           dotnet restore
           dotnet build --configuration Release
-          dotnet publish -c Release -o ${{env.DOTNET_ROOT}}\Digitalia
+          - name: restore
+          
+      - name: publish
+        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}\Digitalia
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
