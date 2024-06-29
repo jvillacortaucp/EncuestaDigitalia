@@ -26,7 +26,7 @@ jobs:
           
       - name: restore
         run: |
-          cd path/to/your/project
+          cd Digitalia/
           dotnet restore
           dotnet build --configuration Release
 
