@@ -21,8 +21,8 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Print current directory
-        run: cd Digitalia/
+      - name: change directory
+        run: cd Digitalia/Digitalia.Server/
             
       - name: Restore solution
         run: dotnet restore
